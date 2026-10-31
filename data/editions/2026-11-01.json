@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-01",
+  "label": "11月1日（日）号",
+  "coverage": "10月28日〜31日",
+  "minutes": 5,
+  "points": [
+    "Metaが中国Fourierと人型ロボ試作機「Max」を開発と報道。販売予定はなし",
+    "ロボ用AIの米Physical Intelligence、評価額約200億ドルで調達交渉と報道",
+    "安川電機のAI溶接ロボ、トヨタのレーシングカート工房で稼働開始",
+    "建設・研究所の自動化スタートアップに資金。テスラは無人タクシーの運行を深夜2時まで延長"
+  ],
+  "items": [
+    {
+      "cat": "humanoid",
+      "stage": "research",
+      "headline": "Meta、中国Fourierと人型ロボ試作機を開発と報道",
+      "body": "米メディアThe Informationによると、Metaは中国の人型ロボット企業Fourierと組み、社内で「Max」と呼ぶ試作機を約3カ月で作りました。身長約1.5m、重さ約48kgで、NVIDIAのロボット用チップ、表情を映す画面、小物をつかめる5本指の手を備えます。8月末に社内で披露され、9月から改良版「Max 2」の開発も始まったとされます。Metaは社内の研究・実験が目的で、販売の予定はないと説明しています。",
+      "why": "SNSとARの巨人が家庭用ロボを自社AIの「体」と位置づけて動き出した形です。部品と製造力では中国勢に頼る構図も見えます。",
+      "src": "Investing.com（The Information報道）",
+      "url": "https://www.investing.com/news/stock-market-news/meta-builds-humanoid-robot-with-chinas-fourier-as-home-robot-push-expands-report-4989306"
+    },
+    {
+      "cat": "business",
+      "stage": "research",
+      "headline": "ロボ頭脳のPI、評価額200億ドルで調達交渉と報道",
+      "body": "ロボットを動かす汎用AIを開発する米Physical Intelligence（PI）が、少なくとも10億ドルの資金調達を交渉中だとBloombergが報じました。企業価値の評価は約200億ドルで、今年初めの115億ドルからほぼ倍になる計算です。既存株主の投資会社が主導する見込みとされます。一方で、同社にはまだ売上がないとも伝えられています。いずれも報道段階で、会社は正式に発表していません。",
+      "why": "売上ゼロでも巨額の評価がつくほど、ロボットの「頭脳」への期待は過熱気味です。実用化の速さが今後問われます。",
+      "src": "The Next Web（Bloomberg報道）",
+      "url": "https://thenextweb.com/news/physical-intelligence-20bn-valuation-talks-bloomberg"
+    },
+    {
+      "cat": "japan",
+      "stage": "deployed",
+      "headline": "安川電機のAI溶接ロボ、トヨタのカート工房で稼働",
+      "body": "安川電機は、トヨタのモータースポーツ部門GRと共同開発した溶接ロボットが、愛知県蒲郡市の「GR KART工房」で9月から動いていると発表しました。入門用レーシングカートのパイプ枠を溶接する工程で、AIがパイプのすき間や仕上がりの画像、溶接中の音などを分析し、作業内容を自分で判断・補正します。これまで熟練工の腕に頼っていた品質管理まで自動化したのが特徴です。",
+      "why": "ベテランの勘に頼る工程をAIで置き換える、日本の工場らしいフィジカルAIの実用例です。人手不足対策にもつながります。",
+      "src": "ニュースイッチ（日刊工業新聞）",
+      "url": "https://newswitch.jp/p/50666"
+    },
+    {
+      "cat": "humanoid",
+      "stage": "pilot",
+      "headline": "小鵬の人型ロボIRON、専用電池の少量生産が始まる",
+      "body": "中国の電気自動車メーカー小鵬汽車（XPeng）の幹部は10月28日、人型ロボット「IRON」向けの固体電池が少量ずつ生産ラインから出始めたと明らかにしました。狭い体内に収まる高密度の設計で、発火が広がりにくい工夫をしたと説明しています。ただ、容量や生産量の数字は示していません。IRONの生産ラインは9月に稼働しており、年内の量産、2027年からの店舗などでの利用開始を計画しています。",
+      "why": "人型ロボの稼働時間を左右するのは電池です。車メーカーが車の技術をロボに持ち込む流れの一例です。",
+      "src": "CnEVPost",
+      "url": "https://cnevpost.com/2026/10/28/solid-state-batteries-xpeng-iron-small-batch-production"
+    },
+    {
+      "cat": "robot",
+      "stage": "pilot",
+      "headline": "内装工事ロボの米Origin、2000万ドル調達",
+      "body": "米サンフランシスコのOriginが、総額2000万ドルの資金を得て表舞台に出てきました。主力ロボット「OG-1」は、壁の下地仕上げや塗装、高い壁や角の処理など、建物内部の複数の作業を1台でこなすことを目指します。米国の大手壁仕上げ業者2社が顧客で、ドイツ、スウェーデン、フランス、サウジアラビアでも試験導入を予定しています。まずは壁の仕上げと塗装から始めるとしています。",
+      "why": "建設現場は人手不足が深刻なのに機械化が遅れてきた分野です。日本の建設業にも通じる課題です。",
+      "src": "Evertiq",
+      "url": "https://evertiq.com/news/2026-10-30-us-startup-origin-raises-20m-to-build-robots-for-construction"
+    },
+    {
+      "cat": "robot",
+      "stage": "deployed",
+      "headline": "実験自動化ロボのOpentrons、4000万ドル調達",
+      "body": "研究室の実験を自動でこなすロボットを手がける米Opentronsが、4000万ドルを調達しました。同社によると、ロボットは80カ国以上で1万1000台超が使われ、世界の製薬大手上位20社の9割が導入しています。資金は、AIが実験の計画から実行、見直しまでを回す仕組みづくりや、新しい地域への進出に使うとしています。",
+      "why": "AIが考えた新薬候補も、最後は実際の実験で確かめる必要があります。研究の現場もロボット化が進んでいます。",
+      "src": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/10/30/opentrons-raises-40-million-to-expand-ai-powered-lab-automation/106542/"
+    },
+    {
+      "cat": "mobility",
+      "stage": "pilot",
+      "headline": "テスラの無人タクシー、運行を深夜2時まで延長",
+      "body": "テスラは10月29日、配車サービス「Robotaxi」の運行時間を朝6時から深夜2時までに広げたと公式アカウントで告知しました。これまでは午後11時ごろまででした。あわせて、画面表示を控えめにする「Calmモード」、乗車情報を友人と共有する機能、後方カメラ映像を見る機能なども加えています。どの都市が対象かは明らかにされておらず、地域によって利用条件が異なる場合があるとしています。",
+      "why": "夜間の運行は利用者が増える時間帯で、収益化には欠かせません。安全面の実績がどう積み上がるかが注目点です。",
+      "src": "Not a Tesla App",
+      "url": "https://www.notateslaapp.com/news/4920/tesla-extends-robotaxi-hours-to-2-am-adds-new-calm-mode-that-hides-fsd-visuals"
+    }
+  ],
+  "trend": {
+    "title": "今週の流れ：ロボットの「頭脳」と「体」に巨額マネーと大手が集まる",
+    "body": "Metaの人型ロボ試作、PIの大型調達交渉、Agilityの上場準備と、ロボットのAIと本体の両方に大手企業と投資マネーが集まっています。一方で、売上がまだない企業や販売予定のない試作機も多く、期待と実用化の間にはまだ距離があります。"
+  },
+  "calendar": [
+    { "when": "11/2（月）※米国時間", "what": "Agility Roboticsの上場合併をめぐるChurchill Capital XIの株主採決", "cat": "business" },
+    { "when": "11/4（水）〜11/7（土）", "what": "Robotworld 2026（韓国・KINTEX）", "cat": "robot" },
+    { "when": "11/5（木）※米国時間", "what": "Agility Robotics、米ナスダックで取引開始予定（ティッカーAGLT）", "cat": "business" },
+    { "when": "11/11（水）〜11/13（金）", "what": "第1回 ヒューマノイドロボット EXPO【秋】（幕張メッセ）", "cat": "humanoid" }
+  ]
+}
